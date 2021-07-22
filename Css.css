@@ -1,0 +1,77 @@
+body{
+  font-family:'Ubuntu', 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  background-color: #0b0c10;
+  /* color: white; */
+}
+.fa 
+{
+  padding: 3rem;
+  font-size: 4.5em;
+  /* width: 30px;
+  text-align: center;
+  text-decoration: none;
+  border-radius: 50%; */
+}
+
+.fa:hover {
+  opacity: 0.7;
+}
+.fa-facebook
+{
+  color: #3b5998;
+}
+
+.fa-instagram
+{
+  color: #517fa4;
+}
+.fa-google
+{
+  color: #dd4b39;
+}
+.fa-linkedin
+{
+  color: #0A66C2;
+}
+.fa-github
+{
+  color: white;
+}
+
+.write
+{
+  color: #66fcf1;
+}
+.btn-secondary:hover
+{
+  background-color: #45a29e;
+  color: black;
+}
+
+.btn-secondary
+{
+  background-color: #66fcf1;
+  color: black;
+}
+.lead
+{
+  color: white;
+}
+
+.cl
+{
+  color: white;
+}
+
+
+
+
+@media (max-width: 992px) {
+
+}
+@media (max-width: 768px) {
+
+}
+@media (max-width: 576px) {
+
+}
